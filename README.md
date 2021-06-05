@@ -1,1 +1,1 @@
-<img src="images/PicsArt_06-05-08.06.51.jpg" width="400" height="500" />
+<img src="images/PicsArt_06-05-08.06.51.jpg" width="40" height="50" />
