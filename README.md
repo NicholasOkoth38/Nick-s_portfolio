@@ -12,8 +12,9 @@ This application is a fan site for One Direction band. It contains information a
 HTML and CSS
 ## Support and contact details
 nicholas.okoth@student.moringaschool.com
+nicholasko38@gmail.com
 ##My gh-pages link
-[https://nicholasokoth38.github.io/My-favorite-band/]
+[]
 ### License
 Licensed under the 
 Copyright (c) 2021 *Nicholas Owino
