@@ -16,6 +16,6 @@ nicholas.okoth@student.moringaschool.com
 nicholasko38@gmail.com
 ##My gh-pages link
 []
-### License
-Licensed under the 
+### License & Copyright
+Licensed under the MIT License
 Copyright (c) 2021 *Nicholas Owino
