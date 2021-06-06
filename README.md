@@ -1,9 +1,9 @@
-# My-favorite-band
-# PRETTYMUCH
-#### 16 Apr 2021
+# Nick-s_portfolio
+# NicholasOkoth38
+#### 6 June 2021
 #### By *Nicholas Owino*
 ## Description
-This application is a fan site for One Direction band. It contains information about the band, a short bio of the members and a list of my favorite songs and albums. 
+This my first landing page portfolio which gives information about me and getting to know me,It consists of four html and four css files with images,
 ## Setup/Installation Requirements
 * Visual Studio Code
 * Browser
